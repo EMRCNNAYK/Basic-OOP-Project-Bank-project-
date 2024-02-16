@@ -1,0 +1,2 @@
+C:\Users\Emirc\Desktop\Basic OOP project\OOPproject\obj\Debug\OOP2Video.exe
+C:\Users\Emirc\Desktop\Basic OOP project\OOPproject\obj\Debug\OOP2Video.pdb
